@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.LearningObjects.PostgresqlMonitor'
 VERSION = '1.1'
 AUTHOR = 'James S. Martin'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.LearningObjects']
 PACKAGES = ['ZenPacks', 'ZenPacks.LearningObjects', 'ZenPacks.LearningObjects.PostgresqlMonitor']
 INSTALL_REQUIRES = []
